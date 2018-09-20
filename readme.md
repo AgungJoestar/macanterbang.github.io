@@ -7,3 +7,8 @@ Aplikasi Pengaduk Kotoran adalah aplikasi yang bisa mengaduk dan mengolah berbag
 - dhjsbgvigsvds
 - dkjvbfdkjibgvkjszbg
 ```
+
+- git config --global user.email
+"saber.blade549@gmail.com"
+
+- git config --global user.name "AgungJoestar"idedeidei
